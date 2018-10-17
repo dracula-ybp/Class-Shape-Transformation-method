@@ -8,3 +8,7 @@ An airfoil parametric method
 
 If this code could help you, please give a **star**, (*￣︶￣).
 **Thank you so much !**
+
+Here are two example results:
+
+![image](https://github.com/dracula-ybp/Class-Shape-Transformation-method/blob/master/NACA0012.png)
